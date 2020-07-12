@@ -51,8 +51,8 @@ Nesse desafio, será desenvolvido a GoRestaurant. Usando React.js junto com Type
 
 ### Resultados
 
-<h1 align="left">
-  <img alt="Results" title="GoRestaurant" src=".github/go-restaurante.png" width="400px" style="border-radius:100px"/>
+<h1 align="left">  
+  <img src=".github/go-restaurant.gif" width="400px" style="border-radius:100px"/>
 </h1>
 
 ## :memo: Licença
